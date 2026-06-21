@@ -1,5 +1,5 @@
 //pages
-import Explore from "@/views/pages/explore";
+import Explore from "@/views/pages/redesignPrototype";
 
 const mapRoutes = [
   {
