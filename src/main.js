@@ -13,6 +13,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/js/bootstrap.js";
 
 import "ol/ol.css";
+import "@/views/pages/redesignPrototypeHeader.css";
 
 import * as ol from "ol";
 import * as olLayer from "ol/layer";
