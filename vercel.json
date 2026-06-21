@@ -2,10 +2,5 @@
   "version": 2,
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "installCommand": "npm install",
-  "routes": [
-    { "src": "/portal/static/(.*)", "dest": "/portal/static/$1" },
-    { "src": "/portal/(.*)", "dest": "/portal/index.html" },
-    { "src": "/(.*)", "dest": "/portal/index.html" }
-  ]
+  "installCommand": "npm install"
 }
