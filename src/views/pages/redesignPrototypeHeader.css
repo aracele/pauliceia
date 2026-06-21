@@ -1,0 +1,5 @@
+.p2-redesign .topbar{height:65px;border-bottom:1px solid #e9e9e9;display:flex;align-items:center;gap:24px;padding:0 28px;background:#fff;position:relative;z-index:10}
+.p2-redesign .topbar nav{display:flex;gap:8px;flex:1}
+.p2-redesign .topbar nav button{height:40px;padding:0 14px;border:0;border-radius:999px;background:transparent;color:#666;font-weight:700;cursor:pointer}
+.p2-redesign .topbar nav button.active,.p2-redesign .topbar nav button:hover{background:#FFF2EB;color:#F15A24}
+.p2-redesign .top-actions{display:flex;align-items:center;gap:8px}
