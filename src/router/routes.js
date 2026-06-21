@@ -3,8 +3,8 @@ import Application from "@/views/layouts/application";
 
 //pages
 import About from "@/views/pages/about";
-import Home from "@/views/pages/home";
-import Login from "@/views/pages/login";
+import Home from "@/views/pages/redesignPrototype";
+import Login from "@/views/pages/redesignPrototype";
 import Contact from "@/views/pages/contact";
 import Register from "@/views/pages/register";
 import ValidSocial from "@/views/pages/validSocial";
